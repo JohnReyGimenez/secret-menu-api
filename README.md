@@ -1,24 +1,4 @@
-# README
+# Secret Menu API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A beginner-friendly Ruby on Rails API built following Lisa Jung’s tutorial on DEV Community.
+This project demonstrates how to create a simple RESTful API from scratch using Rails with endpoints to view, create, update, and delete secret menu items.
